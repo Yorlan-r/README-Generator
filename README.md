@@ -22,7 +22,7 @@ https://www.w3schools.com/nodejs/nodejs_intro.asp
 
 MIT
 
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+
 
 
 ![Professional READ ME Generator CLI](https://user-images.githubusercontent.com/106920094/213332697-519d06f6-e70e-43e8-9062-d5726c70050f.PNG)
